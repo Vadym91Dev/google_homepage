@@ -1,4 +1,2 @@
 # google_homepage
-$ git add -A
-$ git commit -m "update README"
-$ git push origin master
+http://codenamecrud.ru/basics-of-web-development/project-html-css
